@@ -26,20 +26,20 @@ permalink: /
 <p><span style="font-weight: 400;">Figma, Git</span></p>
 </li>
 </ul>
-<h4>Some of my pet-projects:</h4>
+<h4><strong>Some of my pet-projects:</strong></h4>
 <ul>
 <li><a href="/giftGiver"><em>GiftGiver</em></a> - <a href="https://github.com/Elizav555/GiftGiver">Repository</a></li>
 <li><a href="/fiveLetters"><em>FiveLetters</em></a> - <a href="https://github.com/Elizav555/FiveLetters">Repository</a></li>
 <li><em>Flutter shopping list</em> - <a href="https://github.com/Elizav555/Firebase">Repository</a></li>
 <li><em>MyBook website</em> - <a href="https://github.com/Elizav555/MyBook">Repository</a></li>
 </ul>
-<h4>Languages:</h4>
+<h4><strong>Languages:</strong></h4>
 <ul>
 <li>Russian (Native)</li>
 <li>English (B2+)</li>
 <li>French (A2)</li>
 </ul>
-<h4>Skills</h4>
+<h4><strong>Skills</strong></h4>
 <ul>
 <li>Developed Soft-skills</li>
 <li>Comply with deadlines</li>
