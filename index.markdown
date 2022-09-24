@@ -28,8 +28,8 @@ permalink: /
 </ul>
 <h4>Some of my pet-projects:</h4>
 <ul>
-<li><a href="/fiveLetters"><em>GiftGiver</em></a> - <a href="https://github.com/Elizav555/GiftGiver">Repository</a></li>
-<li><a href="https://elizav555.github.io/FiveLetters"><em>FiveLetters</em></a> - <a href="https://github.com/Elizav555/FiveLetters">Repository</a></li>
+<li><a href="/giftGiver"><em>GiftGiver</em></a> - <a href="https://github.com/Elizav555/GiftGiver">Repository</a></li>
+<li><a href="/fiveLetters"><em>FiveLetters</em></a> - <a href="https://github.com/Elizav555/FiveLetters">Repository</a></li>
 <li><em>Flutter shopping list</em> - <a href="https://github.com/Elizav555/Firebase">Repository</a></li>
 <li><em>MyBook website</em> - <a href="https://github.com/Elizav555/MyBook">Repository</a></li>
 </ul>

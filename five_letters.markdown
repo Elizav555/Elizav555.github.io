@@ -33,5 +33,5 @@ This project was implemented to practice with Compose
 - Clean Architecture
 - Shared Preferences
 
-[![Screencast]()](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
+[![Screencast]](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
 
