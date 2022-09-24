@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /
 ---
 <h1>Hey, My name is Elizaveta Garkina.</h1>
 <h3>Email: <strong><a href="mailto:lizagarkina5@gmail.com">lizagarkina5@gmail.com</a> </strong><strong>Telegram:</strong> <span style="color: #ff00ff;"><strong>@ElizavG</strong></span></h3>
@@ -27,7 +28,7 @@ layout: home
 </ul>
 <h4>Some of my pet-projects:</h4>
 <ul>
-<li><a href="https://elizav555.github.io/GiftGiver"><em>GiftGiver</em></a> - <a href="https://github.com/Elizav555/GiftGiver">Repository</a></li>
+<li><a href="/fiveLetters"><em>GiftGiver</em></a> - <a href="https://github.com/Elizav555/GiftGiver">Repository</a></li>
 <li><a href="https://elizav555.github.io/FiveLetters"><em>FiveLetters</em></a> - <a href="https://github.com/Elizav555/FiveLetters">Repository</a></li>
 <li><em>Flutter shopping list</em> - <a href="https://github.com/Elizav555/Firebase">Repository</a></li>
 <li><em>MyBook website</em> - <a href="https://github.com/Elizav555/MyBook">Repository</a></li>
