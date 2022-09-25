@@ -50,14 +50,14 @@ about_content: | # this will include new lines to allow paragraphs
  Hey, My name is Elizaveta Garkina.
 
  Now I am a third-year student at <mark>Kazan Federal University</mark> in the field of <mark>Software Engineering</mark>. 
- In addition, I'm taking a <mark>Flutter-developer</mark> course and am attached to the <mark>Mobile Development Lab</mark>
+ In addition, I'm taking a <mark>Flutter-developer</mark> course and am attached to the <mark>Mobile Development Lab</mark>.
 
-  - Native language is Russian.
+  - Native language is Russian
   - English level is B2+
-  - Also know a little bit of French (A1-A2 I suppose).
+  - Also know a little bit of French (A1-A2 I suppose)
 
-  - Quite sociable and easily join the team. 
-  - Learn quickly and like to learn new things.
+  - Quite sociable and easily join the team
+  - Learn quickly and like to learn new things
   - ALWAYS meet deadlines and have the makings of a good leader
 content:
   - title: Stack # Title for the section
@@ -82,7 +82,7 @@ content:
             icon: fab fa-github
             url: https://github.com/Elizav555/GiftGiver
         description: | 
-          A small educational project that will help you please your loved ones and will make it easier to choose gifts for them. User can make wishlists, look at the calendar of upcoming holidays and birthdays of his friends from VK, as well as choose gifts for them.
+          A small educational project that will help you please your loved ones and will make it easier to choose gifts for them. User can make wishlists, look at the calendar of upcoming holidays and birthdays of his friends from VK, as well as look throw their Wishlists.
             
             <mark>Features</mark> | <mark>Stack</mark>
              Theme changing (dark and light) | MVVM
@@ -159,8 +159,7 @@ content:
         sub_title: Summer Internship
         caption: July 2022
         description: | # this will include new lines to allow paragraphs
-            During the internship I participated in the development of the company's internal project with full immersion in the development process. For the first time I worked with Compose
-
+            During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
             *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
 
   - title: Education 
@@ -171,7 +170,7 @@ content:
         caption: 2020 - 2024
         sub_title: Software Engineering, ITIS
         description: | 
-          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100
+          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100.
 
       - layout: left
         title: Skillbox
@@ -183,7 +182,7 @@ content:
     layout: text 
     content: |
         - Have a terrible **Hermione Granger complex**
-        - I've loved reading since childhood, especially **dystopias and fiction**, but lately I've been drawn to **comic books** in English. 
+        - I've loved reading since childhood, especially **dystopias and fiction**, but lately I've been drawn to **comic books** in English 
         - Like everyone else like **Netflix and chill** 
         - When I have time, I dive into any **Action/RPG** game with open world
         - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
