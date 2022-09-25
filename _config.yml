@@ -64,11 +64,11 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <center>
-           <h2><mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow </mark></h2>
-           <h2><mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutine</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito </mark></h2>
-           <h2><mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark>  <mark>VIPER</mark>  </h2>
-           <h2><mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark>  </h2>
-           <h2><mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></h2></center>
+           <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow </mark> <br><br> 
+           <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutine</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito </mark>  <br><br>
+           <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark>  <mark>VIPER</mark>  <br><br>
+           <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
+           <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></center>  
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -171,7 +171,13 @@ content:
         caption: 2020 - 2024
         sub_title: Software Engineering, ITIS
         description: | 
-          Studied Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis
+          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100
+
+      - layout: left
+        title: Skillbox
+        sub_title: Flutter-developer
+        description: | 
+          Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
 
   - title: Hobbies
     layout: text 
