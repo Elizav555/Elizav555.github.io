@@ -49,8 +49,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hey, My name is Elizaveta Garkina.
 
- Now I am a third-year student at <mark>Kazan Federal University</mark> in the field of <mark>Software Engineering</mark>. 
- In addition, I'm taking a <mark>Flutter-developer</mark> course and am attached to the <mark>Mobile Development Lab</mark>.
+ Now I am a third-year student at **Kazan Federal University** in the field of **Software Engineering**. 
+ In addition, I'm taking a **Flutter-developer** course and am attached to the **Mobile Development Lab**.
+
+ <mark>Desired position:</mark> **Intern/Junior Android Developer**. I'm looking for **part-time job**, cause plan to combine it with my university studies.
 
   - Native language is Russian
   - English level is B2+
@@ -186,7 +188,7 @@ content:
         - Like everyone else like **Netflix and chill** 
         - When I have time, I dive into any **Action/RPG** game with open world
         - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
-        - 3D Modelling in SketchUp is kinda interesting for me too
+        - **3D Modelling** in SketchUp is kinda interesting for me too
 
 # Footer
 footer_show_references: true
