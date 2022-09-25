@@ -139,7 +139,7 @@ content:
              Letter guessing animation  | Clean Architecture
                 | Shared Preferences
                 |
-                
+
           <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
           
           
@@ -176,7 +176,7 @@ content:
 # Footer
 footer_show_references: true
 references_title: | 
-  Telegram: https://t.me/ElizavG
+  Telegram: <a>https://t.me/ElizavG</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
