@@ -30,12 +30,12 @@ instagram_username: __elizav__
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: telegram
   icon: fa fa-telegram
   url: https://t.me/ElizavG
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: vk
+  icon: fa fa-vk
+  url: https://vk.com/elizavetagarkina
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -44,7 +44,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hey, My name is Elizaveta Garkina.
@@ -64,66 +64,119 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <center>
-           <h2><mark>Compose</mark>   <mark>Room</mark>   <mark>Firebase</mark>   <mark>Dagger2</mark>   <mark>Hilt</mark>   <mark>ViewModel</mark>   <mark>LiveData</mark>   <mark>Flow</mark></h2>
-           <h2><mark>Moxy</mark>   <mark>Cicerone</mark>   <mark>RxJava</mark>   <mark>Coroutine</mark>   <mark>Retrofit</mark>   <mark>Okhttp</mark>   <mark>JUnit5</mark>   <mark>Mockito</mark></h2>
-           <h2><mark>SOLID</mark>   <mark>Clean Architecture</mark>   <mark>MVP</mark>   <mark>MVVM</mark>   <mark>VIPER</mark>   </h2>
-           <h2><mark>SQL</mark>   <mark>PostgreSql</mark>   <mark>Figma</mark>   <mark>Git</mark>    <mark>JS</mark>   <mark>JQuery</mark>   <mark>HTML</mark>   <mark>CSS</mark>   </h2>
-           <h2><mark>ASP.Net Core</mark>   <mark>.Net6</mark>   <mark>EntityFramework Core</mark></h2></center>
+           <h2><mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow </mark></h2>
+           <h2><mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutine</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito </mark></h2>
+           <h2><mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark>  <mark>VIPER</mark>  </h2>
+           <h2><mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark>  </h2>
+           <h2><mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></h2></center>
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: GiftGiver
         link: https://elizav555.github.io/GiftGiver
-        # link_text: Project Website
+        link_text: Project Page
         additional_links:
           - title:  GiftGiver Repository
             icon: fab fa-github
             url: https://github.com/Elizav555/GiftGiver
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           A small educational project that will help you please your loved ones and will make it easier to choose gifts for them. User can make wishlists, look at the calendar of upcoming holidays and birthdays of his friends from VK, as well as choose gifts for them.
+            
+            <mark>Features</mark> | <mark>Stack</mark>
+             Theme changing (dark and light) | MVVM
+             Loading friends list from VK, searching and filtration | Xml
+             Add friend to favorites | Shared Element Animation
+             View friend's Wishlists and gifts | Work Manager
+             See which gifts are already unavailable for selection | ViewModel
+             See which gifts you have chosen  | Flow
+             Anonymous choice of gifts and adding them to shopping list | LiveData
+             Create and edit your own Wishlists and gifts | Coroutines
+             If friend changed his gift after you added it to cart, it will be marked | Room
+             Edit profile | Firebase Notifications
+             View photos and upload them from camera/gallery | Firestore
+             Calendar with friends birthdays and holidays | Storage
+             Holidays are taken from api | Coil
+             Ability to add/delete events | Retrofit and Okhttp
+             Notification one day before event | Dagger2
+             Firebase Push Notifications | Clean Architecture
+             Data storing in Firestore and Storage | Material Calendar
+             Data backup in Room for offline mode | VK SDK
+              |
+             
+          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191795380-6029d606-f53c-4107-8728-9bba0257d1cc.mp4)
+          
+          
+          ![Users Profile](images/users_profile.jpg  "User's Profile"  )
+          ![Wishlist](images/wishlist.jpg "User's Wishlist")
+          ![Friends](images/friends.jpg "Friends")
+          ![Friends Wishlist](images/friends_wishlist.jpg "Friend's Wishlist")
+          ![Calendar](images/calendar.jpg "Calendar")
+
+          
       - layout: top-middle
         title: FiveLetters
         link: https://elizav555.github.io/FiveLetters
-        # link_text: Project Website
+        link_text: Project Page
         additional_links:
           - title:  FiveLetters Repository
             icon: fab fa-github
             url: https://github.com/Elizav555/FiveLetters
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           A game in which you will have five tries to guess the hidden word. After each try, the letters that are guessed correctly and the letters that are in the word but are in the wrong position will be highlighted. This project was implemented to practice with Compose.
-
-  - title: Experience # Title for the section
+          
+          <mark>Features</mark> | <mark>Stack</mark>
+             Theme changing(dark and light) | Compose
+             Dynamic color support | Compose Animation
+             Change of localization (Russian/English) | ViewModel
+             Save game settings and state in Shared Preferences | Flow
+             Choice of difficulty level  number of letters (5/6/7) | Coroutines
+             Dialog with game rules | Events and State
+             Custom Keyboard | Material3
+             Offline mode support  | Retrofit and Okhttp
+             Words are taken from the api | Hilt
+             Letter guessing animation  | Clean Architecture
+                | Shared Preferences
+                |
+                
+          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
+          
+          
+          ![Game Rus](images/game_russian.jpg  "Game Russian"  )
+          ![Game Eng](images/game_english.jpg "Game English")
+          ![Info](images/info_eng.jpg "Info Dialog")
+          ![Settings](images/settings_russian.jpg "Settings Dialog")
+          ![Won Dialog](images/won_eng.jpg "Won Dialog")
+                
+  - title: Experience 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Технократия
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
-        # link_text: boringcompany.com
+        link_text: technokratos.com
         sub_title: Summer Internship
         caption: July 2022
         description: | # this will include new lines to allow paragraphs
             During the internship I participated in the development of the company's internal project with full immersion in the development process. For the first time I worked with Compose
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+            *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
+
+  - title: Education 
+    layout: list 
     content:
       - layout: left
         title: Kazan Federal University
         caption: 2020 - 2024
         sub_title: Software Engineering, ITIS
-        description: | # this will include new lines to allow paragraphs
-          Studied Fundamentals of Programming and Information Systems Development , Algorithms and Data Structures , Database , Mobile Application Development , Theory of Information and Communication , System Analysis
+        description: | 
+          Studied Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: | 
+  Telegram: https://t.me/ElizavG
 
 # Build settings
 remote_theme: sproogen/resume-theme
