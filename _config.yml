@@ -155,7 +155,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Технократия
+        title: Technokratos (Технократия)
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
         link_text: technokratos.com
         sub_title: Summer Internship
