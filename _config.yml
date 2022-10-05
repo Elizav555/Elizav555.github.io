@@ -164,14 +164,14 @@ content:
           
           <mark>Features</mark> | <mark>Stack</mark>
             Search for a city | FusedLocationProviderClient
-            Display a list with the nearest 10 places, if there is no access to the location, the default location is set | ViewModel
-            The color of the temperature text depends on the temperature | LiveData
+            Display a list with the nearest 10 places | ViewModel
+            If there is no access to the location, the default location is set | LiveData
             Support both dark and light themes | Coroutines
             Layout for landscape mode | DataBinding
             Animation | Shared Element Animation
             Request Permissions | Retrofit and Okhttp
             Some tests | Hilt and Dagger2 (branch dagger2)
-             | Assisted Inject
+            The color of the temperature text depends on the temperature | Assisted Inject
              | Clean Architecture
              | JUnit5
              | MockK
@@ -201,7 +201,7 @@ content:
             Navigation using router | RxJava3
             Display characters list and their detailed info | Moxy
             MVP architecture | Flow
-            Each Api call includes md5 hash from private and public api keys,timestamp | MD5
+            Each Api call includes md5 hash from private and public api keys, timestamp | MD5
             Some tests | Retrofit and Okhttp
              | Clean Architecture
              | Hilt
