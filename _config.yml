@@ -150,7 +150,72 @@ content:
           ![Info](images/info_eng.jpg "Info Dialog")
           ![Settings](images/settings_russian.jpg "Settings Dialog")
           ![Won Dialog](images/won_eng.jpg "Won Dialog")
-                
+
+      - layout: top-middle
+        title:  WeatherApp
+        link: https://elizav555.github.io/Weather_App
+        link_text: Project Page
+        additional_links:
+          - title:  WeatherApp Repository
+            icon: fab fa-github
+            url: https://github.com/Elizav555/Weather_App
+        description: | 
+          My first MVVM client-server app.
+          
+          <mark>Features</mark> | <mark>Stack</mark>
+            Search for a city | FusedLocationProviderClient
+            Display a list with the nearest 10 places, if there is no access to the location, the default location is set | ViewModel
+            The color of the temperature text depends on the temperature | LiveData
+            Support both dark and light themes | Coroutines
+            Layout for landscape mode | DataBinding
+            Animation | Shared Element Animation
+            Request Permissions | Retrofit and Okhttp
+            Some tests | Hilt and Dagger2 (branch dagger2)
+             | Assisted Inject
+             | Clean Architecture
+             | JUnit5
+             | MockK
+
+          <mark>Screenshots</mark>   [FirstScreencast](https://user-images.githubusercontent.com/78415957/194026549-4eea857e-a978-4069-9f89-9c4a8a882d6f.mp4) [SecondScreencast](https://user-images.githubusercontent.com/78415957/194026555-7f1612e1-de84-4ffd-9f91-6403b04ea0cd.mp4)
+          
+          
+          ![Nearest places list](images/list.jpg  "Nearest places list"  )
+          ![Nearest places list](images/list_dark.jpg "Nearest places list dark")
+          ![Rationale](images/rationale.jpg "Rationale")
+          ![Weather Screen](images/weather.jpg "Weather Screen")
+          ![Weather Screen dark](images/weather_dark.jpg "Weather Screen dark")
+
+      - layout: top-middle
+        title: MarvelApp
+        link: https://elizav555.github.io/MarvelApp
+        link_text: Project Page
+        additional_links:
+          - title:  MarvelApp Repository
+            icon: fab fa-github
+            url: https://github.com/Elizav555/MarvelApp
+        description: | 
+          Simple app for MVP and RxJava practice.
+          
+          <mark>Features</mark> | <mark>Stack</mark>
+            Search using MarvelApi, reacts when user is typing | Cicerone
+            Navigation using router | RxJava3
+            Display characters list and their detailed info | Moxy
+            MVP architecture | Flow
+            Each Api call includes md5 hash from private and public api keys,timestamp | MD5
+            Some tests | Retrofit and Okhttp
+             | Clean Architecture
+             | Hilt
+             | MockK
+             | JUnit5
+
+          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/194083697-b97338a3-8e63-4a18-b1db-42d3867c17df.mp4)
+          
+          
+          ![Search](images/search_first.jpg  "Search"  )
+          ![Search x2](images/search_second.jpg "Search")
+          ![Hero's detail](images/detail.jpg "Hero's detail")
+          ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
+
   - title: Experience 
     layout: list # Type of content section (list/text)
     content:
