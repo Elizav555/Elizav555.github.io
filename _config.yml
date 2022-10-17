@@ -68,7 +68,7 @@ content:
         <center>
            <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow </mark> <br><br> 
            <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutine</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito </mark>  <br><br>
-           <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark>  <mark>VIPER</mark>  <br><br>
+           <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
            <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
            <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></center>  
   
@@ -150,6 +150,36 @@ content:
           ![Info](images/info_eng.jpg "Info Dialog")
           ![Settings](images/settings_russian.jpg "Settings Dialog")
           ![Won Dialog](images/won_eng.jpg "Won Dialog")
+      
+      - layout: top-middle
+        title:  MVIShopping
+        link: https://elizav555.github.io/MVIShopping
+        link_text: Project Page
+        additional_links:
+          - title:  MVIShopping Repository
+            icon: fab fa-github
+            url: https://github.com/Elizav555/MVIShopping
+        description: | 
+          This app was my first attempt to work with RxRedux for MVI.
+          
+          <mark>Features</mark> | <mark>Stack</mark>
+            Google one tap signIn | Firebase Auth
+            Edit products in list | Firestore
+            Add product to cart | RxRedux
+            Sort lists (dynamic icon for both lists) | RxJava
+            Cart's count on badge | Coroutines
+             | ViewPager2
+             | Tabs
+             | Hilt
+             | MVI
+             | Clean Architecture
+
+          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/196248223-90612eb8-1cbc-4f09-bc8b-b1d8482b4299.mp4) 
+          
+          
+          ![Products List](images/productsList.jpg  "Products List"  )
+          ![Cart](images/cart.jpg "Cart")
+          ![Sign In](images/signin.jpg "Sign In")
 
       - layout: top-middle
         title:  WeatherApp
