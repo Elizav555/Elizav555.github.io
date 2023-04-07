@@ -3,11 +3,11 @@ repository: elizav555.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Elizaveta Garkina
-title: Junior Android Developer
+title: Android Developer
 email: lizagarkina5@gmail.com
 website: https://elizav555.github.io/
 
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
  Now I am a third-year student at **Kazan Federal University** in the field of **Software Engineering**. 
  In addition, I'm taking a **Flutter-developer** course and am attached to the **Mobile Development Lab**.
 
- <mark>Desired position:</mark> **Intern/Junior Android Developer**. 
+ <mark>Desired position:</mark> **Junior+/Middle- Android Developer**. 
 
   - Native language is Russian
   - English level is B2+
@@ -259,6 +259,15 @@ content:
             During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
             *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
 
+      - layout: left
+        title: Spider Group
+        link: https://spider.ru/
+        link_text: spider.ru
+        sub_title: Android Developer
+        caption: November 2022 - ...
+        description: | 
+            Lead developer on a commercial project
+            
   - title: Education 
     layout: list 
     content:
