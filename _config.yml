@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
  Hey, My name is Elizaveta Garkina.
 
  Now I am a third-year student at **Kazan Federal University** in the field of **Software Engineering**. 
- In addition, I'm taking a **Flutter-developer** course and am attached to the **Mobile Development Lab**.
+ In addition, I am attached to the **Mobile Development Lab**.
 
  <mark>Desired position:</mark> **Junior+/Middle- Android Developer**. 
 
@@ -66,8 +66,8 @@ content:
     layout: text # Type of content section (list/text)
     content: |
         <center>
-           <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow </mark> <br><br> 
-           <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutine</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito </mark>  <br><br>
+           <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow</mark> <br><br> 
+           <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutines</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito</mark>  <br><br>
            <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
            <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
            <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></center>  
@@ -264,10 +264,19 @@ content:
         link: https://spider.ru/
         link_text: spider.ru
         sub_title: Android Developer
-        caption: November 2022 - ...
+        caption: November 2022 - May 2023
         description: | 
-            Lead developer on a commercial project
+            Lead developer on a commercial project. Stack: Kotlin, Coroutines, View, Flow, MVVM, Cicerone, Dagger2, Retrofit, Shared Preferences, Moshi, AdapterDelegates, Slack EitherNet, Paging 3.
             
+      - layout: left
+        title: Technokratos (Технократия)
+        link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
+        link_text: technokratos.com
+        sub_title: Android Developer
+        caption: May 2023 - ...
+        description: | 
+            Android developer on a project for large-scale industrial production.
+
   - title: Education 
     layout: list 
     content:
@@ -284,11 +293,18 @@ content:
         description: | 
           Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
 
+      - layout: left
+        title: Courses in Kazan Federal University
+        caption: 2022 - 2023
+        sub_title: System Analysis, UI/UX Design
+        description: | 
+          Successfully completed the courses of System analysis from BARS Group and UI/UX design from Agona.
+
   - title: Hobbies
     layout: text 
     content: |
         - Have a terrible **Hermione Granger complex**
-        - I've loved reading since childhood, especially **dystopias and fiction**, but lately I've been drawn to **comic books** in English 
+        - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different *books related to mythology** in English
         - When I have time, I dive into any **Action/RPG** game with open world
         - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
         - **3D Modelling** in SketchUp is kinda interesting for me too
