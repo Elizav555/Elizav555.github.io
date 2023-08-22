@@ -21,7 +21,7 @@ github_username:  Elizav555
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: __elizav__
-#linkedin_username: jameswgrant
+linkedin_username: elizavg
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -33,9 +33,6 @@ additional_links:
 - title: telegram
   icon: fa fa-telegram
   url: https://t.me/ElizavG
-- title: linkedin
-  icon: fa fa-linkedin
-  url: https://www.linkedin.com/in/elizavg/
 - title: vk
   icon: fa fa-vk
   url: https://vk.com/elizavetagarkina
@@ -52,14 +49,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hey, My name is Elizaveta Garkina.
 
- Now I am a third-year student at **Kazan Federal University** in the field of **Software Engineering**. 
- In addition, I am attached to the **Mobile Development Lab**.
+ Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. 
+ In addition, I am attached to the **Mobile Development Lab**, have been involved in mobile app development **since 2021**.
 
- <mark>Desired position:</mark> **Junior+/Middle- Android Developer**. 
+ <mark>Desired position:</mark> **Middle-/Middle Android Developer**. 
 
   - Native language is Russian
-  - English level is B2+
-  - Also know a little bit of French (A1-A2 I suppose)
+  - English level is C1
+  - Also know a little bit of French and Spanish
 
   - Quite sociable and easily join the team
   - Learn quickly and like to learn new things
@@ -74,7 +71,75 @@ content:
            <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
            <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
            <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></center>  
-  
+
+  - title: Experience 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Technokratos (Технократия)
+        link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
+        link_text: technokratos.com
+        sub_title: Android Developer
+        caption: May 2023 - ...
+        description: | 
+            Development of a terminal and tablet application large enterprise's work automatization<br>.
+            **Responsibilities:**
+            - Creating components for UiKit
+            - Development and implementation of new features and refactoring of existing functionality
+            - Worked with external camera and internal device storage
+            - Code-review<br>
+            **Stack:** Kotlin, XML, Coroutines, Flow, MVVM, Navigation Component, Hilt, Retrofit, Shared Preferences, Kotlin Serialization, Lottie.
+      
+      - layout: left
+        title: Spider Group
+        link: https://spider.ru/
+        link_text: spider.ru
+        sub_title: Android Developer
+        caption: November 2022 - May 2023
+        description: | 
+            Application development for an online lottery ticket purchase service. I was the <br>lead developer<br>.
+            **Responsibilities:**
+            - Development of new features
+            - Onboarding of other developers and further support
+            - Large number of tasks with multithreading
+            - Extensive code refactoring with the addition of new technologies
+            - Architectural decision making
+            - Code-review
+            **Stack:** Kotlin, XML, Coroutines, Flow, MVVM, Cicerone, Dagger2, Retrofit, Shared Preferences, Moshi, AdapterDelegates, Slack EitherNet, Paging 3
+
+      - layout: left
+        title: Technokratos (Технократия)
+        link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
+        link_text: technokratos.com
+        sub_title: Summer Internship
+        caption: July 2022
+        description: | # this will include new lines to allow paragraphs
+            During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
+            *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
+
+  - title: Education 
+    layout: list 
+    content:
+      - layout: left
+        title: Kazan Federal University
+        caption: 2020 - 2024
+        sub_title: Software Engineering, ITIS
+        description: | 
+          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100.
+
+      - layout: left
+        title: Skillbox
+        sub_title: Flutter-developer
+        description: | 
+          Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
+
+      - layout: left
+        title: Courses in Kazan Federal University
+        caption: 2022 - 2023
+        sub_title: System Analysis, UI/UX Design
+        description: | 
+          Successfully completed the courses of **System analysis from BARS Group and UI/UX design from Agona**.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -184,124 +249,70 @@ content:
           ![Cart](images/cart.jpg "Cart")
           ![Sign In](images/signin.jpg "Sign In")
 
-      - layout: top-middle
-        title:  WeatherApp
-        link: https://elizav555.github.io/Weather_App
-        link_text: Project Page
-        additional_links:
-          - title:  WeatherApp Repository
-            icon: fab fa-github
-            url: https://github.com/Elizav555/Weather_App
-        description: | 
-          My first MVVM client-server app.
+      # - layout: top-middle
+      #   title:  WeatherApp
+      #   link: https://elizav555.github.io/Weather_App
+      #   link_text: Project Page
+      #   additional_links:
+      #     - title:  WeatherApp Repository
+      #       icon: fab fa-github
+      #       url: https://github.com/Elizav555/Weather_App
+      #   description: | 
+      #     My first MVVM client-server app.
           
-          <mark>Features</mark> | <mark>Stack</mark>
-            Search for a city | FusedLocationProviderClient
-            Display a list with the nearest 10 places | ViewModel
-            If there is no access to the location, the default location is set | LiveData
-            Support both dark and light themes | Coroutines
-            Layout for landscape mode | DataBinding
-            Animation | Shared Element Animation
-            Request Permissions | Retrofit and Okhttp
-            Some tests | Hilt and Dagger2 (branch dagger2)
-            The color of the temperature text depends on the temperature | Assisted Inject
-             | Clean Architecture
-             | JUnit5
-             | MockK
+      #     <mark>Features</mark> | <mark>Stack</mark>
+      #       Search for a city | FusedLocationProviderClient
+      #       Display a list with the nearest 10 places | ViewModel
+      #       If there is no access to the location, the default location is set | LiveData
+      #       Support both dark and light themes | Coroutines
+      #       Layout for landscape mode | DataBinding
+      #       Animation | Shared Element Animation
+      #       Request Permissions | Retrofit and Okhttp
+      #       Some tests | Hilt and Dagger2 (branch dagger2)
+      #       The color of the temperature text depends on the temperature | Assisted Inject
+      #        | Clean Architecture
+      #        | JUnit5
+      #        | MockK
 
-          <mark>Screenshots</mark>   [FirstScreencast](https://user-images.githubusercontent.com/78415957/194026549-4eea857e-a978-4069-9f89-9c4a8a882d6f.mp4) [SecondScreencast](https://user-images.githubusercontent.com/78415957/194026555-7f1612e1-de84-4ffd-9f91-6403b04ea0cd.mp4)
-          
-          
-          ![Nearest places list](images/list.jpg  "Nearest places list"  )
-          ![Nearest places list](images/list_dark.jpg "Nearest places list dark")
-          ![Rationale](images/rationale.jpg "Rationale")
-          ![Weather Screen](images/weather.jpg "Weather Screen")
-          ![Weather Screen dark](images/weather_dark.jpg "Weather Screen dark")
-
-      - layout: top-middle
-        title: MarvelApp
-        link: https://elizav555.github.io/MarvelApp
-        link_text: Project Page
-        additional_links:
-          - title:  MarvelApp Repository
-            icon: fab fa-github
-            url: https://github.com/Elizav555/MarvelApp
-        description: | 
-          Simple app for MVP and RxJava practice.
-          
-          <mark>Features</mark> | <mark>Stack</mark>
-            Search using MarvelApi, reacts when user is typing | Cicerone
-            Navigation using router | RxJava3
-            Display characters list and their detailed info | Moxy
-            MVP architecture | Flow
-            Each Api call includes md5 hash from private and public api keys, timestamp | MD5
-            Some tests | Retrofit and Okhttp
-             | Clean Architecture
-             | Hilt
-             | MockK
-             | JUnit5
-
-          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/194083697-b97338a3-8e63-4a18-b1db-42d3867c17df.mp4)
+      #     <mark>Screenshots</mark>   [FirstScreencast](https://user-images.githubusercontent.com/78415957/194026549-4eea857e-a978-4069-9f89-9c4a8a882d6f.mp4) [SecondScreencast](https://user-images.githubusercontent.com/78415957/194026555-7f1612e1-de84-4ffd-9f91-6403b04ea0cd.mp4)
           
           
-          ![Search](images/search_first.jpg  "Search"  )
-          ![Search x2](images/search_second.jpg "Search")
-          ![Hero's detail](images/detail.jpg "Hero's detail")
-          ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
+      #     ![Nearest places list](images/list.jpg  "Nearest places list"  )
+      #     ![Nearest places list](images/list_dark.jpg "Nearest places list dark")
+      #     ![Rationale](images/rationale.jpg "Rationale")
+      #     ![Weather Screen](images/weather.jpg "Weather Screen")
+      #     ![Weather Screen dark](images/weather_dark.jpg "Weather Screen dark")
 
-  - title: Experience 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Technokratos (Технократия)
-        link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
-        link_text: technokratos.com
-        sub_title: Summer Internship
-        caption: July 2022
-        description: | # this will include new lines to allow paragraphs
-            During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
-            *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
+      # - layout: top-middle
+      #   title: MarvelApp
+      #   link: https://elizav555.github.io/MarvelApp
+      #   link_text: Project Page
+      #   additional_links:
+      #     - title:  MarvelApp Repository
+      #       icon: fab fa-github
+      #       url: https://github.com/Elizav555/MarvelApp
+      #   description: | 
+      #     Simple app for MVP and RxJava practice.
+          
+      #     <mark>Features</mark> | <mark>Stack</mark>
+      #       Search using MarvelApi, reacts when user is typing | Cicerone
+      #       Navigation using router | RxJava3
+      #       Display characters list and their detailed info | Moxy
+      #       MVP architecture | Flow
+      #       Each Api call includes md5 hash from private and public api keys, timestamp | MD5
+      #       Some tests | Retrofit and Okhttp
+      #        | Clean Architecture
+      #        | Hilt
+      #        | MockK
+      #        | JUnit5
 
-      - layout: left
-        title: Spider Group
-        link: https://spider.ru/
-        link_text: spider.ru
-        sub_title: Android Developer
-        caption: November 2022 - May 2023
-        description: | 
-            Lead developer on a commercial project. Stack: Kotlin, Coroutines, View, Flow, MVVM, Cicerone, Dagger2, Retrofit, Shared Preferences, Moshi, AdapterDelegates, Slack EitherNet, Paging 3.
-            
-      - layout: left
-        title: Technokratos (Технократия)
-        link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
-        link_text: technokratos.com
-        sub_title: Android Developer
-        caption: May 2023 - ...
-        description: | 
-            Android developer on a project for large-scale industrial production.
-
-  - title: Education 
-    layout: list 
-    content:
-      - layout: left
-        title: Kazan Federal University
-        caption: 2020 - 2024
-        sub_title: Software Engineering, ITIS
-        description: | 
-          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100.
-
-      - layout: left
-        title: Skillbox
-        sub_title: Flutter-developer
-        description: | 
-          Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
-
-      - layout: left
-        title: Courses in Kazan Federal University
-        caption: 2022 - 2023
-        sub_title: System Analysis, UI/UX Design
-        description: | 
-          Successfully completed the courses of **System analysis from BARS Group and UI/UX design from Agona**.
+      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/194083697-b97338a3-8e63-4a18-b1db-42d3867c17df.mp4)
+          
+          
+      #     ![Search](images/search_first.jpg  "Search"  )
+      #     ![Search x2](images/search_second.jpg "Search")
+      #     ![Hero's detail](images/detail.jpg "Hero's detail")
+      #     ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
 
   - title: Hobbies
     layout: text 
