@@ -82,13 +82,13 @@ content:
         sub_title: Android Developer
         caption: May 2023 - ...
         description: | 
-            Development of a terminal and tablet application large enterprise's work automatization<br>.
+            Development of a terminal and tablet application large enterprise's work automatization.<br>
             **Responsibilities:**
             - Creating components for UiKit
             - Development and implementation of new features and refactoring of existing functionality
             - Worked with external camera and internal device storage
-            - Code-review<br>
-            **Stack:** Kotlin, XML, Coroutines, Flow, MVVM, Navigation Component, Hilt, Retrofit, Shared Preferences, Kotlin Serialization, Lottie.
+            - Code-review
+            <br>**Stack:** Kotlin, XML, Kotlin Coroutines, Flow, MVVM, Navigation Component, Dagger Hilt, Retrofit2, Okhttp3, Chucker, Encrypted Shared Preferences, MediaStore, Datastore,  KotlinX Serialization, Lottie, Camera 2,  Facebook Shimmer, ViewPager2, AndroidX Paging, Coil, AndroidX Swipe Refresh Layout, FlexBox.
       
       - layout: left
         title: Spider Group
@@ -97,7 +97,7 @@ content:
         sub_title: Android Developer
         caption: November 2022 - May 2023
         description: | 
-            Application development for an online lottery ticket purchase service. I was the <br>lead developer<br>.
+            Application development for an online lottery ticket purchase service. I was the <br>lead developer.<br>
             **Responsibilities:**
             - Development of new features
             - Onboarding of other developers and further support
@@ -105,7 +105,7 @@ content:
             - Extensive code refactoring with the addition of new technologies
             - Architectural decision making
             - Code-review
-            **Stack:** Kotlin, XML, Coroutines, Flow, MVVM, Cicerone, Dagger2, Retrofit, Shared Preferences, Moshi, AdapterDelegates, Slack EitherNet, Paging 3
+            <br>**Stack:** Kotlin, XML, Coroutines, Flow, MVVM, Cicerone, Dagger2, Retrofit, Shared Preferences, Moshi, AdapterDelegates, Slack EitherNet, Paging 3
 
       - layout: left
         title: Technokratos (Технократия)
