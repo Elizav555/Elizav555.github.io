@@ -50,3 +50,63 @@
         height: 400px;
         margin: 6px;
     }
+
+    .button--version::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: inherit;
+        z-index: -1;
+        box-shadow: inset 0 0 0 35px #333;
+        -webkit-transform: scale3d(0.9, 0.9, 1);
+        transform: scale3d(0.9, 0.9, 1);
+        -webkit-transition: box-shadow 0.3s, -webkit-transform 0.3;
+        transition: box-shadow 0.3s, transform 0.3s;
+      }
+      
+      .button.button--version {
+        width: 200px;
+        margin-top: 6px;
+        margin-bottom: 10px;
+        justify-content: center; 
+        align-items: center;
+        text-align: center;
+        height: 40px;
+        border-radius: 20px;
+        min-width: 0;
+        padding: 0;
+        color: #fff;
+        -webkit-transition: color 0.3s;
+        transition: color 0.3s;
+      }
+      
+      .button--version:hover {
+        color: #333;
+      }
+      
+      .button--version:hover::before {
+        box-shadow: inset 0 0 0 2px #333;
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+      }
+      
+      .dark {
+        .button--version::before {
+          box-shadow: inset 0 0 0 35px #e6e6e6;
+        }
+      
+        .button.button--version {
+          color: #222;
+        }
+      
+        .button--version:hover {
+          color: #e6e6e6;
+        }
+      
+        .button--version:hover::before {
+          box-shadow: inset 0 0 0 2px #e6e6e6;
+        }
+      }
