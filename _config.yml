@@ -7,8 +7,8 @@ lang: ru
 version: 2
 
 # Personal info
-name: Elizaveta Garkina
-title: Android Developer
+name: Гарькина Елизавета 
+title: Android Разработчица
 email: lizagarkina5@gmail.com
 website: https://elizav555.github.io/
 
@@ -45,27 +45,28 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+about_title: Обо мне
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
+ Здравствуйте, меня зовут **Гарькина Елизавета**, дата рождения **01.09.2002**, в настоящее время проживаю в **Казани**.
 
- Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. 
- In addition, I am attached to the **Mobile Development Lab**, have been involved in mobile app development **since 2021**.
+ На данный момент являюсь студенткой четвертого курса **Казанского Федерального Университета**, направление подготовки **Программная инженерия**.
+ Кроме того, я прикреплена к **Лаборатории мобильной разработки** в университете, занимаюсь разработкой мобильных приложений **с 2021 года**.
+ 
+ Начинала с **Flutter** разработки, но довольно быстро увлеклась нативной разработкой. Также имею небольшой опыт создания сайтов используя **Asp.Net Core** и сейчас начала изучать **ReactNative**.
 
- Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
+ <mark>Желаемая должность:</mark> **Middle-/Middle Android Разработчик** 
 
- <mark>Desired position:</mark> **Middle-/Middle Android Developer**. 
+  - Родной язык - Русский
+  - Уровень Английского C1
+  - Также немного знаю Французский и Испанский
 
-  - Native language is Russian
-  - English level is C1
-  - Also know a little bit of French and Spanish
+  - Достаточно общительна и легко вливаюсь в коллектив
+  - Быстро обучаюсь и любознательна
+  - Всегда укладываюсь в сроки и обладаю задатками хорошего руководителя
 
-  - Quite sociable and easily join the team
-  - Fast learner and inquisitive
-  - Always meet deadlines and have the makings of a good leader
 content:
-  - title: Skills # Title for the section
+  - title: Навыки # Title for the section
     layout: text # Type of content section (list/text)
     # content: |
     #     <center>
@@ -90,131 +91,133 @@ content:
          <mark>Flutter</mark> <mark>MachineLearning</mark> <mark>SystemAnalysis</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
          <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
          <br><br>
-         <mark>Communicative</mark> <mark>Responsible</mark> <mark>Disciplined</mark> <mark>Leader</mark> <mark>Purposeful</mark>
+         <mark>Коммуникативность</mark> <mark>Ответственность</mark> <mark>Дисциплинированность</mark> <mark>Лидерские навыки</mark> <mark>Целеустремленность</mark>
         </center>
         
 
-  - title: Experience 
+  - title: Опыт
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Technokratos (Технократия)
+        title: Технократия
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
         link_text: technokratos.com
-        sub_title: Android Developer
-        caption: May 2023 - ...
+        sub_title: Android Разработчик
+        caption: Май 2023 - ...
         description: | 
-            Development of a terminal and tablet application large enterprise's work automatization.<br>
-            **Responsibilities:**
-            - Creating components for UiKit
-            - Development and implementation of new features and refactoring of existing functionality
-            - Worked with external camera and internal device storage
+            Разработка приложения для терминала и планшета для автоматизации работы крупного предприятия.<br>
+            **Обязанности:**
+            - Создание компонентов для UiKitа
+            - Проработка и реализация новых фичей и рефакторинг существующего функционала
+            - Реализация работы с внешней камерой и внутренним хранилищем устройства
             - Code-review
 
-            **Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
+            **Стек:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
             
-            **During this time:**
-            - Created a service for logging requests and errors within the application into json files
-            - Worked with NFC sensor and external camera
-            - Created a common mechanism for error handling in the whole application
-            - Realized work with table views with fixing of headers and columns
-            - Passed the certification for the position of **middle android developer**
-            - Passed the **360 Soft Skills Assessment** with a high score of 2.3 out of 3 and **very positive feedback from the team**
+            **За время работы:**
+            - Создала сервис логирования запросов и ошибок внутри приложения в json файлы
+            - Поработала с датчиком NFC и внешней камерой
+            - Создала общий механизм для обработки ошибок во всем приложении
+            - Реализовала работу с табличными представлениями с закреплением заголовков и столбцов
+            - Прошла аттестацию на **Middle Android разработчика**
+            - Прошла **360 Оценку Софт Скиллов** с итоговым баллом в 2.3 из 3 и **позитивным фидбэком от команды**
+
       - layout: left
         title: Spider Group
         link: https://spider.ru/
         link_text: spider.ru
-        sub_title: Android Developer
-        caption: November 2022 - May 2023
+        sub_title: Android Разработчик
+        caption: Ноябрь 2022 - Май 2023
         description: | 
-            Application development for an online lottery ticket purchase service. I was the <br>lead developer.<br>
-            **Responsibilities:**
-            - Development of new features
-            - Onboarding of other developers and further support
-            - Large number of tasks with multithreading
-            - Extensive code refactoring with the addition of new technologies
-            - Architectural decision making
+            Разработка приложения для онлайн сервиса покупки лотерейных билетов. Являлась **ведущим разработчиком**.
+            **Обязанности:**
+            - Разработка новых фичей и их оценка
+            - Погружение в проект других разработчиков и дальнейшая помощь
+            - Большое количество задач с многопоточностью
+            - Обширный рефакторинг кода с добавлением актуальных технологий
+            - Принятие архитектурных решений
             - Code-review
             
-            **Stack:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
+            **Стек:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
             
-            **During this time:**
-            - Engaged in creating loaded screens with complex ui. For example, lottery screens with the ability to set an unlimited number of tickets according to different lottery rules, notifications, buying and paying for tickets and their sets
-            - Successfully onboarded three developers into the project and assisted them with designing new functionality
-            - Implemented on-the-fly localization with multi-language support
-            - Organized the camera and gallery and pre-processed photos before sending them to the server
-            - Worked with converting images for different containers
+            **За время работы:**
+            - Занималась созданием нагруженных экранов с сложным ui. Например, экраны лотерей с возможностью выбора неограниченного количества билетов по различным правилам лотерей, уведомлениями, покупкой и оплатой билетов и их наборов
+            - Успешно погрузила трех разработчиков в проект и помогала им с проектированием нового функционала
+            - Реализовала локализацию на лету с поддержкой нескольких языков
+            - Организовала работу с камерой и галереей и предобработку фотографий перед отправкой на сервер
+            - Работала с преобразованием изображений под различные контейнеры
+
       - layout: left
-        title: Technokratos (Технократия)
+        title: Технократия
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
         link_text: technokratos.com
-        sub_title: Summer Internship
-        caption: July 2022
+        sub_title: Летняя практика
+        caption: Июль 2022
         description: | # this will include new lines to allow paragraphs
-            During the internship I participated in the development of the company's internal project with **full immersion in the development process**. For the first time I worked with **Compose**.<br>
-            *"In short, you are good, we are satisfied with your work. I want to note your motivation and involvement, your speed of immersion in new technologies and completing tasks, a clear breakdown of code by commit, good design of pull-requests, quick response to comments, the presence of your own ideas and suggestions. Also noted soft skills, the fact that you didn't hesitate to ask questions not only to mentors, but also to designers and analysts - that's very cool"* - @MyMentor
+            В ходе стажировки я участвовала в разработке внутреннего проекта компании **с полным погружением в процесс разработки**. Впервые поработала с **Compose и Jira**.<br>
+            *"Если коротко, ты молодец, мы твоей работой довольны. Хочется отметить твою мотивацию и вовлеченность, скорость погружения в новые технологии и выполнения задач, четкое разбиение кода по коммитам, хорошее оформление PRов, оперативное реагирование на замечания, наличие собственных идей и предложений. Кроме того отметили софт-скиллы, тот факт, что ты не стеснялась задавать вопросы не только менторам, но и дизайнерам, и аналитикам - это очень здорово."* - @Ментор
 
-  - title: Education 
+  - title: Образование
     layout: list 
     content:
       - layout: left
-        title: Kazan Federal University
+        title: Казанский Федеральный (Поволжский) Университет
         caption: 2020 - 2024
-        sub_title: Software Engineering, ITIS
+        sub_title: Программная инженерия, ИТИС
         description: | 
-          As part of my undergraduate studies, I **gained a strong background knowledge in a variety of areas** including:<br> Discrete Mathematics, Mathematical Analysis, Algorithms and Data Structures, Probability Theory and Mathematical Statistics, Database Operations, Operating System Architecture, Software Development Lifecycle, Information and Coding Theory, Information Security, UI/UX Design, System Analytics, Fundamentals of System Testing, Web Development, Data Mining, Machine Learning.
-          <br><br>Academic rating (out of 100):
-                - 2020/2021 : **90,53 points**
-                - 2021/2022 : **94.47 points**   
-                - 2022/2023 : **89,24 points**
+          В рамках обучения в университете получила **крепкие базовые знания в различных областях**, в том числе: Дискретная математика, Математический анализ, Алгоритмы и структуры данных, Теория вероятностей и математическая статистика, Работа с базами данных, Архитектура Операционных Систем, Жизненный цикл разработки программного обеспечения, Теория информации и кодирования, Информационная безопасность, UI/UX дизайн, Системная аналитика, Основы тестирования систем, Веб-разработка, Data Mining, Machine Learning.
+          
+          **Академический рейтинг** (из 100):
+          - 2020/2021 : **90,53 баллов**
+          - 2021/2022 : **94.47 баллов**   
+          - 2022/2023 : **89,24 баллов**
 
       - layout: left
         title: Skillbox
         caption: 2020-2022
-        sub_title: Flutter-developer
+        sub_title: Flutter-разработчик
         description: | 
-          Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
+          Прошла следующие курсы: **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
 
       - layout: left
-        title: Courses in Kazan Federal University
+        title: Курсы в Казанском Федеральном Университете
         caption: 2022 - 2023
-        sub_title: System Analysis, UI/UX Design
+        sub_title: Системный анализ, UI/UX Дизайн
         description: | 
-          Successfully completed the courses of **System analysis from BARS Group and UI/UX design from Agona**.
+          Успешно закончила курсы по **Системному анализу** от BARS Group и **UI/UX Дизайну** от Агоны.
 
-  - title: Projects # Title for the section
+  - title: Проекты # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: GiftGiver
         link: https://elizav555.github.io/GiftGiver
-        link_text: Project Page
+        link_text: Страница проекта
         additional_links:
-          - title:  GiftGiver Repository
+          - title:  GiftGiver Репозиторий
             icon: fab fa-github
             url: https://github.com/Elizav555/GiftGiver
         description: | 
-          A small educational project that will help you please your loved ones and will make it easier to choose gifts for them. User can make wishlists, look at the calendar of upcoming holidays and birthdays of his friends from VK, as well as look throw their Wishlists.
+          Небольшой образовательный проект, который поможет вам порадовать своих близких и облегчит выбор подарков для них. Пользователь может составлять списки желаний, просматривать календарь предстоящих праздников и дней рождения своих друзей из VK, а также заглядывать в их списки желаний.
             
-            <mark>Features</mark> | <mark>Stack</mark>
-             Theme changing (dark and light) | MVVM
-             Loading friends list from VK, searching and filtration | Xml
-             Add friend to favorites | Shared Element Animation
-             View friend's Wishlists and gifts | Work Manager
-             See which gifts are already unavailable for selection | ViewModel
-             See which gifts you have chosen  | Flow
-             Anonymous choice of gifts and adding them to shopping list | LiveData
-             Create and edit your own Wishlists and gifts | Coroutines
-             If friend changed his gift after you added it to cart, it will be marked | Room
-             Edit profile | Firebase Notifications
-             View photos and upload them from camera/gallery | Firestore
-             Calendar with friends birthdays and holidays | Storage
-             Holidays are taken from api | Coil
-             Ability to add/delete events | Retrofit and Okhttp
-             Notification one day before event | Dagger2
+            <mark>Функционал</mark> | <mark>Стек</mark>
+             Смена темы (ночная и дневная) | MVVM
+             Загрузка списка друзей из VK, поиск и фильтрация | Xml
+             Возможность добавлять друзей в избранное | Shared Element Animation
+             Просмотр списков желаний друзей и подарков в них | Work Manager
+             Просмотр, какие подарки уже недоступны для выбора | ViewModel
+             Просмотр, какие подарки уже выбраны пользователем  | Flow
+             Анонимный выбор подарков и их добавление в корзину | LiveData
+             Создание своих списков желаний и подарков | Coroutines
+             Если друг изменил уже выбранный пользователем подарок, то в корзине появится отметка об этом | Room
+             Редактирование профиля | Firebase Notifications
+             Просмотр фото и загрузка из галереи/камеры | Firestore
+             Календарь с днями рождениями друзей и праздниками | Storage
+             Праздники загружаются с holiday api | Coil
+             Возможность добавлять/редактировать события в календаре | Retrofit and Okhttp
+             Уведомления за день до события | Dagger2
              Firebase Push Notifications | Clean Architecture
-             Data storing in Firestore and Storage | Material Calendar
-             Data backup in Room for offline mode | VK SDK
+             Хранение данных в Firestore и Storag режима | VK SDK
               |
              
           <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191795380-6029d606-f53c-4107-8728-9bba0257d1cc.mp4)
@@ -230,25 +233,25 @@ content:
       - layout: top-middle
         title: FiveLetters
         link: https://elizav555.github.io/FiveLetters
-        link_text: Project Page
+        link_text: Страница проекта
         additional_links:
-          - title:  FiveLetters Repository
+          - title:  FiveLetters Репозиторий
             icon: fab fa-github
             url: https://github.com/Elizav555/FiveLetters
         description: | 
-          A game in which you will have five tries to guess the hidden word. After each try, the letters that are guessed correctly and the letters that are in the word but are in the wrong position will be highlighted. This project was implemented to practice with Compose.
+          Игра, в которой у вас будет пять попыток отгадать спрятанное слово. После каждой попытки будут подсвечиваться буквы, угаданные правильно, и буквы, которые есть в слове, но находятся в неправильном положении. Данный проект был реализован для отработки навыков работы с Compose.
           
-          <mark>Features</mark> | <mark>Stack</mark>
-             Theme changing(dark and light) | Compose
-             Dynamic color support | Compose Animation
-             Change of localization (Russian/English) | ViewModel
-             Save game settings and state in Shared Preferences | Flow
-             Choice of difficulty level  number of letters (5/6/7) | Coroutines
-             Dialog with game rules | Events and State
-             Custom Keyboard | Material3
-             Offline mode support  | Retrofit and Okhttp
-             Words are taken from the api | Hilt
-             Letter guessing animation  | Clean Architecture
+          <mark>Функционал</mark> | <mark>Стек</mark>
+             Смена темы (ночная и дневная) | Compose
+             Поддержка Dynamic color | Compose Animation
+             Смена языка (Русский/English) | ViewModel
+             Сохранение настроек и состояние игровой сессии в Shared Preferences | Flow
+             Выбор уровня сложности - длины загаданного слова (5/6/7 букв) | Coroutines
+             Диалог с правилами игры | Events and State
+             Кастомная клавиатура | Material3
+             Поддержка Offline режима  | Retrofit and Okhttp
+             Слова подтягиваются с api | Hilt
+             Анимация отгаданных букв  | Clean Architecture
                 | Shared Preferences
                 |
 
@@ -356,15 +359,14 @@ content:
       #     ![Hero's detail](images/detail.jpg "Hero's detail")
       #     ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
 
-  - title: Hobbies
+  - title: Увлечения
     layout: text 
     content: |
-        - Trying to lead an **active lifestyle**, insterested in **trying something new** and **participating in team activities**
-        - Have a terrible **Hermione Granger complex**
-        - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different **books related to mythology** in English
-        - When I have time, I dive into any **Action/RPG** game with open world
-        - One of the reasons I like being a developer is that I will be able to work remotely and **travel** all the time (hopefully)
-        - **3D Modelling** in SketchUp is kinda interesting for me too
+        - Стараюсь вести **активный образ жизни**, люблю **пробовать новое и участвовать в командных активностях**
+        - Обладательница **комплекса отличницы**
+        - Люблю **читать и смотреть фильмы на английском**, особенно интересны сюжеты **антиутопии** и связанные с различными **мифами**
+        - Когда есть время, с головой погружаюсь в **Action/RPG игры с открытым миром**
+        - Одна из причин, по которой я люблю свою профессию это **возможность работать удаленно и путешествовать**
 
 # Footer
 footer_show_references: true
