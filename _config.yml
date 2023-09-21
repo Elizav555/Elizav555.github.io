@@ -48,10 +48,12 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, My name is Elizaveta Garkina.
+ Hey, My name is **Elizaveta Garkina**, date of birth **01.09.2002**, at the moment I live in **Kazan**.
 
  Now I am a fourth-year student at **Kazan Federal University** in the field of **Software Engineering**. 
  In addition, I am attached to the **Mobile Development Lab**, have been involved in mobile app development **since 2021**.
+
+ Started out with **Flutter** development, but got into native development pretty quickly. I also have a little experience of creating websites using **Asp.Net Core** and recently I've started learning **ReactNative**.
 
  <mark>Desired position:</mark> **Middle-/Middle Android Developer**. 
 
@@ -60,18 +62,37 @@ about_content: | # this will include new lines to allow paragraphs
   - Also know a little bit of French and Spanish
 
   - Quite sociable and easily join the team
-  - Learn quickly and like to learn new things
-  - ALWAYS meet deadlines and have the makings of a good leader
+  - Fast learner and inquisitive
+  - Always meet deadlines and have the makings of a good leader
 content:
-  - title: Stack # Title for the section
+  - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
+    # content: |
+    #     <center>
+    #        <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow</mark> <br><br> 
+    #        <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutines</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito</mark>  <br><br>
+    #        <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
+    #        <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
+    #        <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark>
+    #        </center>  
     content: |
         <center>
-           <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow</mark> <br><br> 
-           <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutines</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito</mark>  <br><br>
-           <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
-           <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
-           <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark></center>  
+         <mark>Kotlin</mark>
+         <mark>XML</mark> <mark>Compose</mark>
+         <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
+         <mark>SOLID</mark> <mark>CleanArchitecture</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI</mark><br><br>
+         <mark>NavigationComponent</mark> <mark>Cicerone</mark>
+         <mark>Hilt</mark> <mark>Dagger2</mark>
+         <mark>Retrofit</mark> <mark>Okhttp</mark><br><br>
+         <mark>SharedPreferences</mark> <mark>Room</mark> <mark>Firebase</mark>
+         <mark>JUnit5</mark> <mark>Mockito</mark> <mark>Charles</mark><br><br>
+         <mark>KotlinSerialization</mark> <mark>Lottie</mark> <mark>Moshi</mark><br><br><mark>AdapterDelegates</mark> <mark>SlackEitherNet</mark> <mark>Paging3</mark> <mark>Moxy</mark> <mark>CameraX</mark> <mark>Camera2</mark><br><br>
+         <mark>Flutter</mark> <mark>MachineLearning</mark> <mark>SystemAnalysis</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
+         <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
+         <br><br>
+         <mark>Communicative</mark> <mark>Responsible</mark> <mark>Disciplined</mark> <mark>Leader</mark> <mark>Purposeful</mark>
+        </center>
+        
 
   - title: Experience 
     layout: list # Type of content section (list/text)
@@ -128,10 +149,15 @@ content:
         caption: 2020 - 2024
         sub_title: Software Engineering, ITIS
         description: | 
-          Studied **Fundamentals of Programming and Information Systems Development, Algorithms and Data Structures, Database, Mobile Application Development, Theory of Information and Communication, System Analysis**.<br>Academic rating for the academic year 2021/2022 : **94.47 points** out of 100.
+          As part of my undergraduate studies, I **gained a strong background knowledge in a variety of areas** including:<br> Discrete Mathematics, Mathematical Analysis, Algorithms and Data Structures, Probability Theory and Mathematical Statistics, Database Operations, Operating System Architecture, Software Development Lifecycle, Information and Coding Theory, Information Security, UI/UX Design, System Analytics, Fundamentals of System Testing, Web Development, Data Mining, Machine Learning.
+          <br><br>Academic rating (out of 100):
+                - 2020/2021 : **90,53 points**
+                - 2021/2022 : **94.47 points**   
+                - 2022/2023 : **89,24 points**
 
       - layout: left
         title: Skillbox
+        caption: 2020-2022
         sub_title: Flutter-developer
         description: | 
           Studied **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
@@ -222,35 +248,35 @@ content:
           ![Settings](images/settings_russian.jpg "Settings Dialog")
           ![Won Dialog](images/won_eng.jpg "Won Dialog")
       
-      - layout: top-middle
-        title:  MVIShopping
-        link: https://elizav555.github.io/MVIShopping
-        link_text: Project Page
-        additional_links:
-          - title:  MVIShopping Repository
-            icon: fab fa-github
-            url: https://github.com/Elizav555/MVIShopping
-        description: | 
-          This app was my first attempt to work with RxRedux for MVI.
+      # - layout: top-middle
+      #   title:  MVIShopping
+      #   link: https://elizav555.github.io/MVIShopping
+      #   link_text: Project Page
+      #   additional_links:
+      #     - title:  MVIShopping Repository
+      #       icon: fab fa-github
+      #       url: https://github.com/Elizav555/MVIShopping
+      #   description: | 
+      #     This app was my first attempt to work with RxRedux for MVI.
           
-          <mark>Features</mark> | <mark>Stack</mark>
-            Google one tap signIn | Firebase Auth
-            Edit products in list | Firestore
-            Add product to cart | RxRedux
-            Sort lists (dynamic icon for both lists) | RxJava
-            Cart's count on badge | Coroutines
-             | ViewPager2
-             | Tabs
-             | Hilt
-             | MVI
-             | Clean Architecture
+      #     <mark>Features</mark> | <mark>Stack</mark>
+      #       Google one tap signIn | Firebase Auth
+      #       Edit products in list | Firestore
+      #       Add product to cart | RxRedux
+      #       Sort lists (dynamic icon for both lists) | RxJava
+      #       Cart's count on badge | Coroutines
+      #        | ViewPager2
+      #        | Tabs
+      #        | Hilt
+      #        | MVI
+      #        | Clean Architecture
 
-          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/196248223-90612eb8-1cbc-4f09-bc8b-b1d8482b4299.mp4) 
+      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/196248223-90612eb8-1cbc-4f09-bc8b-b1d8482b4299.mp4) 
           
           
-          ![Products List](images/productsList.jpg  "Products List"  )
-          ![Cart](images/cart.jpg "Cart")
-          ![Sign In](images/signin.jpg "Sign In")
+      #     ![Products List](images/productsList.jpg  "Products List"  )
+      #     ![Cart](images/cart.jpg "Cart")
+      #     ![Sign In](images/signin.jpg "Sign In")
 
       # - layout: top-middle
       #   title:  WeatherApp
@@ -320,6 +346,7 @@ content:
   - title: Hobbies
     layout: text 
     content: |
+        - Trying to lead an **active lifestyle**, insterested in **trying something new** and **participating in team activities**
         - Have a terrible **Hermione Granger complex**
         - I've loved reading since childhood, especially **dystopias and fiction**, lately I've been drawn to different **books related to mythology** in English
         - When I have time, I dive into any **Action/RPG** game with open world
