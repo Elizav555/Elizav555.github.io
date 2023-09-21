@@ -111,8 +111,15 @@ content:
             - Worked with external camera and internal device storage
             - Code-review
 
-            <br>**Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
-      
+            **Stack:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
+            
+            **During this time:**
+            - Created a service for logging requests and errors within the application into json files
+            - Worked with NFC sensor and external camera
+            - Created a common mechanism for error handling in the whole application
+            - Realized work with table views with fixing of headers and columns
+            - Passed the certification for the position of **middle android developer**
+            - Passed the **360 Soft Skills Assessment** with a high score of 2.3 out of 3 and **very positive feedback from the team**
       - layout: left
         title: Spider Group
         link: https://spider.ru/
@@ -128,9 +135,15 @@ content:
             - Extensive code refactoring with the addition of new technologies
             - Architectural decision making
             - Code-review
-
-            <br>**Stack:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
-
+            
+            **Stack:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
+            
+            **During this time:**
+            - Engaged in creating loaded screens with complex ui. For example, lottery screens with the ability to set an unlimited number of tickets according to different lottery rules, notifications, buying and paying for tickets and their sets
+            - Successfully onboarded three developers into the project and assisted them with designing new functionality
+            - Implemented on-the-fly localization with multi-language support
+            - Organized the camera and gallery and pre-processed photos before sending them to the server
+            - Worked with converting images for different containers
       - layout: left
         title: Technokratos (Технократия)
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
