@@ -21,7 +21,7 @@ github_username:  Elizav555
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: __elizav__
+#instagram_username: __elizav__
 linkedin_username: elizavg
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -34,9 +34,9 @@ additional_links:
 - title: telegram
   icon: fa fa-telegram
   url: https://t.me/ElizavG
-- title: vk
-  icon: fa fa-vk
-  url: https://vk.com/elizavetagarkina
+# - title: vk
+#   icon: fa fa-vk
+#   url: https://vk.com/elizavetagarkina
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
