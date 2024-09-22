@@ -50,10 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Здравствуйте, меня зовут **Гарькина Елизавета**, дата рождения **01.09.2002**, в настоящее время проживаю в **Казани**.
 
- На данный момент являюсь студенткой четвертого курса **Казанского Федерального Университета**, направление подготовки **Программная инженерия**. Темы моей дипломной работы: **Методы и программные механизмы генерации визуальных моделей Android приложений**.
- Кроме того, я прикреплена к **Лаборатории мобильной разработки** в университете, занимаюсь разработкой мобильных приложений **с 2021 года**.
- 
- Начинала с **Flutter** разработки, но довольно быстро увлеклась нативной разработкой. Также имею небольшой опыт создания сайтов используя **Asp.Net Core** и сейчас начала изучать **ReactNative**.
+ Занимаюсь разработкой мобильных приложений **с 2021 года**. Начинала с **Flutter** разработки, но довольно быстро увлеклась нативной разработкой. Также имею небольшой опыт создания сайтов используя **Asp.Net Core** и сейчас начала изучать **ReactNative**.
 
  <mark>Желаемая должность:</mark> **Middle Android Разработчик** 
 
@@ -61,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Уровень Английского C1
   - Также немного знаю Французский и Испанский
 
-  - Достаточно общительна и легко вливаюсь в коллектив
+  - Общительна и легко вливаюсь в коллектив
   - Быстро обучаюсь и любознательна
   - Всегда укладываюсь в сроки и обладаю задатками хорошего руководителя
 
@@ -99,11 +96,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Т-Банк
+        link: https://www.tbank.ru/
+        link_text: tbank.ru
+        sub_title: Android Разработчик
+        caption: Июнь 2024 - ...
+        description: |
+          Разработчик в команде Топлива.
+
+      - layout: left
         title: Технократия
         link: https://technokratos.com/?ysclid=l8g67dlhzr518675436
         link_text: technokratos.com
         sub_title: Android Разработчик
-        caption: Май 2023 - ...
+        caption: Май 2023 - Июнь 2024
         description: | 
           Реализация системы управления производственными процессами и хранения производственной оснастки, MES система.<br>
             **Обязанности:**
@@ -124,8 +130,13 @@ content:
             - Поработала с датчиком NFC и внешней камерой
             - Создала общий механизм для обработки ошибок во всем приложении
             - Реализовала работу с табличными представлениями с закреплением заголовков и столбцов
-            - Прошла аттестацию на **Middle Android разработчика**
-            - Прошла **360 Оценку Софт Скиллов** с итоговым баллом в 2.3 из 3 и **позитивным фидбэком от команды**
+            - На протяжении всей работы получала **позитивнй фидбэк от команды и заказчика**
+          
+          Аудит кода и приложения для страховой компании<br>
+           **За время работы:**
+            - Продумала план аудита и создала шаблон отчета для мобильных разработчиков
+            - Использовала MobSF, LeakCanary, Accessibility Scanner, SonarQube
+            - Проводила анализ архитектуры проекта
 
       - layout: left
         title: Spider Group
@@ -169,13 +180,11 @@ content:
         title: Казанский Федеральный (Поволжский) Университет
         caption: 2020 - 2024
         sub_title: Программная инженерия, ИТИС
-        description: | 
+        description: |
+          **Диплом с отличием**, средний балл : 4.9.
+          Тема дипломной работы: **Методы и программные механизмы генерации визуальных моделей структуры Android приложений**.
+          Была прикреплена к **Лаборатории мобильной разработки** в университете.
           В рамках обучения в университете получила **крепкие базовые знания в различных областях**, в том числе: Дискретная математика, Математический анализ, Алгоритмы и структуры данных, Теория вероятностей и математическая статистика, Работа с базами данных, Архитектура Операционных Систем, Жизненный цикл разработки программного обеспечения, Теория информации и кодирования, Информационная безопасность, UI/UX дизайн, Системная аналитика, Основы тестирования систем, Веб-разработка, Data Mining, Machine Learning.
-          
-          **Академический рейтинг** (из 100):
-          - 2020/2021 : **90,53 баллов**
-          - 2021/2022 : **94.47 баллов**   
-          - 2022/2023 : **89,24 баллов**
 
       - layout: left
         title: Skillbox
@@ -268,107 +277,11 @@ content:
           ![Info](images/info_eng.jpg "Info Dialog")
           ![Settings](images/settings_russian.jpg "Settings Dialog")
           ![Won Dialog](images/won_eng.jpg "Won Dialog")
-      
-      # - layout: top-middle
-      #   title:  MVIShopping
-      #   link: https://elizav555.github.io/MVIShopping
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  MVIShopping Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/MVIShopping
-      #   description: | 
-      #     This app was my first attempt to work with RxRedux for MVI.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Google one tap signIn | Firebase Auth
-      #       Edit products in list | Firestore
-      #       Add product to cart | RxRedux
-      #       Sort lists (dynamic icon for both lists) | RxJava
-      #       Cart's count on badge | Coroutines
-      #        | ViewPager2
-      #        | Tabs
-      #        | Hilt
-      #        | MVI
-      #        | Clean Architecture
-
-      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/196248223-90612eb8-1cbc-4f09-bc8b-b1d8482b4299.mp4) 
-          
-          
-      #     ![Products List](images/productsList.jpg  "Products List"  )
-      #     ![Cart](images/cart.jpg "Cart")
-      #     ![Sign In](images/signin.jpg "Sign In")
-
-      # - layout: top-middle
-      #   title:  WeatherApp
-      #   link: https://elizav555.github.io/Weather_App
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  WeatherApp Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/Weather_App
-      #   description: | 
-      #     My first MVVM client-server app.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Search for a city | FusedLocationProviderClient
-      #       Display a list with the nearest 10 places | ViewModel
-      #       If there is no access to the location, the default location is set | LiveData
-      #       Support both dark and light themes | Coroutines
-      #       Layout for landscape mode | DataBinding
-      #       Animation | Shared Element Animation
-      #       Request Permissions | Retrofit and Okhttp
-      #       Some tests | Hilt and Dagger2 (branch dagger2)
-      #       The color of the temperature text depends on the temperature | Assisted Inject
-      #        | Clean Architecture
-      #        | JUnit5
-      #        | MockK
-
-      #     <mark>Screenshots</mark>   [FirstScreencast](https://user-images.githubusercontent.com/78415957/194026549-4eea857e-a978-4069-9f89-9c4a8a882d6f.mp4) [SecondScreencast](https://user-images.githubusercontent.com/78415957/194026555-7f1612e1-de84-4ffd-9f91-6403b04ea0cd.mp4)
-          
-          
-      #     ![Nearest places list](images/list.jpg  "Nearest places list"  )
-      #     ![Nearest places list](images/list_dark.jpg "Nearest places list dark")
-      #     ![Rationale](images/rationale.jpg "Rationale")
-      #     ![Weather Screen](images/weather.jpg "Weather Screen")
-      #     ![Weather Screen dark](images/weather_dark.jpg "Weather Screen dark")
-
-      # - layout: top-middle
-      #   title: MarvelApp
-      #   link: https://elizav555.github.io/MarvelApp
-      #   link_text: Project Page
-      #   additional_links:
-      #     - title:  MarvelApp Repository
-      #       icon: fab fa-github
-      #       url: https://github.com/Elizav555/MarvelApp
-      #   description: | 
-      #     Simple app for MVP and RxJava practice.
-          
-      #     <mark>Features</mark> | <mark>Stack</mark>
-      #       Search using MarvelApi, reacts when user is typing | Cicerone
-      #       Navigation using router | RxJava3
-      #       Display characters list and their detailed info | Moxy
-      #       MVP architecture | Flow
-      #       Each Api call includes md5 hash from private and public api keys, timestamp | MD5
-      #       Some tests | Retrofit and Okhttp
-      #        | Clean Architecture
-      #        | Hilt
-      #        | MockK
-      #        | JUnit5
-
-      #     <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/194083697-b97338a3-8e63-4a18-b1db-42d3867c17df.mp4)
-          
-          
-      #     ![Search](images/search_first.jpg  "Search"  )
-      #     ![Search x2](images/search_second.jpg "Search")
-      #     ![Hero's detail](images/detail.jpg "Hero's detail")
-      #     ![Hero's detail x2](images/detail_second.jpg "Hero's detail")
 
   - title: Увлечения
     layout: text 
     content: |
         - Стараюсь вести **активный образ жизни**, люблю **пробовать новое и участвовать в командных активностях**
-        - Обладательница **комплекса отличницы**
         - Люблю **читать и смотреть фильмы на английском**, особенно интересны сюжеты **антиутопии** и связанные с различными **мифами**
         - Когда есть время, с головой погружаюсь в **Action/RPG игры с открытым миром**
         - Одна из причин, по которой я люблю свою профессию это **возможность работать удаленно и путешествовать**
