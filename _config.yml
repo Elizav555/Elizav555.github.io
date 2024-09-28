@@ -130,7 +130,7 @@ content:
             - Поработала с датчиком NFC и внешней камерой
             - Создала общий механизм для обработки ошибок во всем приложении
             - Реализовала работу с табличными представлениями с закреплением заголовков и столбцов
-            - На протяжении всей работы получала **позитивнй фидбэк от команды и заказчика**<br><br>
+            - На протяжении всей работы получала **позитивный фидбэк от команды и заказчика**<br><br>
           
           <mark>Аудит кода приложения для страховой компании</mark><br>
            **За время работы:**
@@ -200,84 +200,6 @@ content:
         sub_title: Системный анализ, UI/UX Дизайн
         description: | 
           Успешно закончила курсы по **Системному анализу** от BARS Group и **UI/UX Дизайну** от Агоны.
-
-#  - title: Проекты # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: GiftGiver
-#        link: https://elizav555.github.io/GiftGiver
-#        link_text: Страница проекта
-#        additional_links:
-#          - title:  GiftGiver Репозиторий
-#            icon: fab fa-github
-#            url: https://github.com/Elizav555/GiftGiver
-#        description: |
-#          Небольшой образовательный проект, который поможет вам порадовать своих близких и облегчит выбор подарков для них. Пользователь может составлять списки желаний, просматривать календарь предстоящих праздников и дней рождения своих друзей из VK, а также заглядывать в их списки желаний.
-#
-#            <mark>Функционал</mark> | <mark>Стек</mark>
-#             Смена темы (ночная и дневная) | MVVM
-#             Загрузка списка друзей из VK, поиск и фильтрация | Xml
-#             Возможность добавлять друзей в избранное | Shared Element Animation
-#             Просмотр списков желаний друзей и подарков в них | Work Manager
-#             Просмотр, какие подарки уже недоступны для выбора | ViewModel
-#             Просмотр, какие подарки уже выбраны пользователем  | Flow
-#             Анонимный выбор подарков и их добавление в корзину | LiveData
-#             Создание своих списков желаний и подарков | Coroutines
-#             Если друг изменил уже выбранный пользователем подарок, то в корзине появится отметка об этом | Room
-#             Редактирование профиля | Firebase Notifications
-#             Просмотр фото и загрузка из галереи/камеры | Firestore
-#             Календарь с днями рождениями друзей и праздниками | Storage
-#             Праздники загружаются с holiday api | Coil
-#             Возможность добавлять/редактировать события в календаре | Retrofit and Okhttp
-#             Уведомления за день до события | Dagger2
-#             Firebase Push Notifications | Clean Architecture
-#             Хранение данных в Firestore и Storag режима | VK SDK
-#              |
-#
-#          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191795380-6029d606-f53c-4107-8728-9bba0257d1cc.mp4)
-#
-#
-#          ![Users Profile](images/users_profile.jpg  "User's Profile"  )
-#          ![Wishlist](images/wishlist.jpg "User's Wishlist")
-#          ![Friends](images/friends.jpg "Friends")
-#          ![Friends Wishlist](images/friends_wishlist.jpg "Friend's Wishlist")
-#          ![Calendar](images/calendar.jpg "Calendar")
-#
-#
-#      - layout: top-middle
-#        title: FiveLetters
-#        link: https://elizav555.github.io/FiveLetters
-#        link_text: Страница проекта
-#        additional_links:
-#          - title:  FiveLetters Репозиторий
-#            icon: fab fa-github
-#            url: https://github.com/Elizav555/FiveLetters
-#        description: |
-#          Игра, в которой у вас будет пять попыток отгадать спрятанное слово. После каждой попытки будут подсвечиваться буквы, угаданные правильно, и буквы, которые есть в слове, но находятся в неправильном положении. Данный проект был реализован для отработки навыков работы с Compose.
-#
-#          <mark>Функционал</mark> | <mark>Стек</mark>
-#             Смена темы (ночная и дневная) | Compose
-#             Поддержка Dynamic color | Compose Animation
-#             Смена языка (Русский/English) | ViewModel
-#             Сохранение настроек и состояние игровой сессии в Shared Preferences | Flow
-#             Выбор уровня сложности - длины загаданного слова (5/6/7 букв) | Coroutines
-#             Диалог с правилами игры | Events and State
-#             Кастомная клавиатура | Material3
-#             Поддержка Offline режима  | Retrofit and Okhttp
-#             Слова подтягиваются с api | Hilt
-#             Анимация отгаданных букв  | Clean Architecture
-#                | Shared Preferences
-#                |
-#
-#          <mark>Screenshots</mark>   [Screencast](https://user-images.githubusercontent.com/78415957/191793128-c7b77eda-26ed-42de-a81d-051080a5b844.mp4)
-#
-#
-#          ![Game Rus](images/game_russian.jpg  "Game Russian"  )
-#          ![Game Eng](images/game_english.jpg "Game English")
-#          ![Info](images/info_eng.jpg "Info Dialog")
-#          ![Settings](images/settings_russian.jpg "Settings Dialog")
-#          ![Won Dialog](images/won_eng.jpg "Won Dialog")
 
   - title: Увлечения
     layout: text 
