@@ -7,8 +7,8 @@ lang: ru
 version: 2
 
 # Personal info
-name: Гарькина Елизавета 
-title: Android Разработчица
+name: Гарькина Елизавета
+title: Senior Android Разработчица
 email: lizagarkina5@gmail.com
 website: https://elizav555.github.io/
 
@@ -21,7 +21,7 @@ github_username:  Elizav555
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: __elizav__
+#instagram_username: **elizav**
 linkedin_username: elizavg
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -31,9 +31,9 @@ linkedin_username: elizavg
 
 # Additional icon links
 additional_links:
-- title: telegram
-  icon: fa fa-telegram
-  url: https://t.me/ElizavG
+  - title: telegram
+    icon: fa fa-telegram
+    url: https://t.me/ElizavG
 # - title: vk
 #   icon: fa fa-vk
 #   url: https://vk.com/elizavetagarkina
@@ -48,11 +48,11 @@ additional_links:
 about_title: Обо мне
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Здравствуйте, меня зовут **Гарькина Елизавета**, дата рождения **01.09.2002**, в настоящее время проживаю в **Казани**.
+  Здравствуйте, меня зовут **Гарькина Елизавета**, дата рождения **01.09.2002**, в настоящее время проживаю в **Казани**.
+  Занимаюсь разработкой мобильных приложений **с 2021 года**, работаю в коммерческой нативной Android-разработке: от продуктовых стартапов и аутсорса до крупного финтеха. Имею опыт **лидирования кросс-командных и кросс-платформенных фичей**, менторинга, внедрения новых технологий и архитектурных решений.
+  Начинала с **Flutter** разработки, но довольно быстро увлеклась нативной разработкой. Также имею небольшой опыт создания сайтов используя **Asp.Net Core** и **ReactNative**.
 
- Занимаюсь разработкой мобильных приложений **с 2021 года**. Начинала с **Flutter** разработки, но довольно быстро увлеклась нативной разработкой. Также имею небольшой опыт создания сайтов используя **Asp.Net Core** и сейчас начала изучать **ReactNative**.
-
- <mark>Желаемая должность:</mark> **Middle Android Разработчик** 
+  <mark>Желаемая должность:</mark> **Senior / Lead Android Разработчик**
 
   - Родной язык - Русский
   - Уровень Английского C1
@@ -65,32 +65,24 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Навыки # Title for the section
     layout: text # Type of content section (list/text)
-    # content: |
-    #     <center>
-    #        <mark>Compose</mark>  <mark>Room</mark>  <mark>Firebase</mark>  <mark>Dagger2</mark>  <mark>Hilt</mark>  <mark>ViewModel</mark>  <mark>LiveData</mark>  <mark>Flow</mark> <br><br> 
-    #        <mark>Moxy</mark>  <mark>Cicerone</mark>  <mark>RxJava</mark>  <mark>Coroutines</mark>  <mark>Retrofit</mark>  <mark>Okhttp</mark>  <mark>JUnit5</mark>  <mark>Mockito</mark>  <br><br>
-    #        <mark>SOLID</mark>  <mark>Clean Architecture</mark>  <mark>MVP</mark>  <mark>MVVM</mark> <mark>MVI</mark> <mark>VIPER</mark>  <br><br>
-    #        <mark>SQL</mark>  <mark>PostgreSql</mark>  <mark>Figma</mark>  <mark>Git</mark>   <mark>JS</mark>  <mark>JQuery</mark>  <mark>HTML</mark>  <mark>CSS</mark><br><br>  
-    #        <mark>ASP.Net Core</mark>  <mark>.Net6</mark>  <mark>EntityFramework Core </mark>
-    #        </center>  
     content: |
-        <center>
-         <mark>Kotlin</mark>
-         <mark>XML</mark> <mark>Compose</mark>
-         <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
-         <mark>SOLID</mark> <mark>CleanArchitecture</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI</mark><br><br>
-         <mark>NavigationComponent</mark> <mark>Cicerone</mark>
-         <mark>Hilt</mark> <mark>Dagger2</mark>
-         <mark>Retrofit</mark> <mark>Okhttp</mark><br><br>
-         <mark>SharedPreferences</mark> <mark>Room</mark> <mark>Firebase</mark>
-         <mark>JUnit5</mark> <mark>Mockito</mark> <mark>Charles</mark><br><br>
-         <mark>KotlinSerialization</mark> <mark>Lottie</mark> <mark>Moshi</mark><br><br><mark>AdapterDelegates</mark> <mark>SlackEitherNet</mark> <mark>Paging3</mark> <mark>Moxy</mark> <mark>CameraX</mark> <mark>Camera2</mark><br><br>
-         <mark>Flutter</mark> <mark>MachineLearning</mark> <mark>SystemAnalysis</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
-         <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
-         <br><br>
-         <mark>Коммуникативность</mark> <mark>Ответственность</mark> <mark>Дисциплинированность</mark> <mark>Лидерские навыки</mark> <mark>Целеустремленность</mark>
-        </center>
-        
+      <center>
+       <mark>Kotlin</mark>
+       <mark>Compose</mark> <mark>XML</mark> <mark>MotionLayout</mark>
+       <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
+       <mark>Clean Architecture</mark> <mark>MVI</mark> <mark>MVVM</mark> <mark>MVP</mark> <mark>SOLID</mark><br><br>
+       <mark>Многомодульная архитектура</mark> <mark>Gradle</mark> <mark>Feature Toggles</mark><br><br>
+       <mark>Hilt</mark> <mark>Dagger2</mark> <mark>Navigation Component</mark> <mark>Cicerone</mark><br><br>
+       <mark>Retrofit</mark> <mark>OkHttp</mark> <mark>Room</mark> <mark>DataStore</mark> <mark>SharedPreferences</mark> <mark>Firebase</mark><br><br>
+       <mark>JUnit</mark> <mark>Mockk</mark> <mark>Mockito</mark> <mark>UI-тесты</mark> <mark>Charles</mark><br><br>
+       <mark>CameraX</mark> <mark>Camera2</mark> <mark>Paging3</mark> <mark>Lottie</mark> <mark>Moshi</mark> <mark>Kotlin Serialization</mark> <mark>AdapterDelegates</mark> <mark>Slack EitherNet</mark> <mark>Moxy</mark><br><br>
+       <mark>System Design</mark> <mark>RFC/ADR</mark> <mark>Code Review</mark> <mark>Mentoring</mark> <mark>Feature Lead</mark><br><br>
+       <mark>Grafana</mark> <mark>A/B-тесты</mark> <mark>Аналитика и метрики</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
+       <mark>Flutter</mark> <mark>Machine Learning</mark> <mark>System Analysis</mark><br><br>
+       <mark>SQL</mark> <mark>PostgreSql</mark> <mark>Figma</mark> <mark>Git</mark> <mark>JS</mark> <mark>HTML</mark> <mark>CSS</mark>
+       <br><br>
+       <mark>Лидерство</mark> <mark>Коммуникативность</mark> <mark>Ответственность</mark> <mark>Дисциплинированность</mark> <mark>Менторинг</mark> <mark>Целеустремленность</mark>
+      </center>
 
   - title: Опыт
     layout: list # Type of content section (list/text)
@@ -99,10 +91,54 @@ content:
         title: Т-Банк
         link: https://www.tbank.ru/
         link_text: tbank.ru
-        sub_title: Android Разработчик
+        sub_title: Senior Android Разработчица
         caption: Июнь 2024 - ...
         description: |
-          <mark>Разработчик в команде Топлива.</mark>
+          <mark>Разработка крупного продуктового сервиса в составе одного из бизнес-стримов экосистемы банка. Работа в монорепозитории с мультимодульной архитектурой и интеграцией в мобильный банк.</mark><br>
+
+            **Обязанности:**
+            - Разработка и проектирование новых продуктовых фичей
+            - Лидирование крупных кросс-командных и кросс-платформенных фичей в роли feature-owner
+            - Проведение технических ресерчей, выбор архитектурных решений
+            - Взаимодействие с продуктом, дизайном, аналитикой, бэкендом, iOS и смежными командами
+            - Code-review внутри команды и в рамках inner source для смежных команд
+            - Менторинг разработчиков и стажёров, онбординг новых сотрудников
+            - Проведение командных встреч (оценка, тех-долг, демо, ретро)
+            - Покрытие функционала Unit- и UI-тестами, поддержка тестовой инфраструктуры
+            - Работа с релизным циклом, фича-тогглами, конфигами и аналитикой
+
+            **Стек:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Многомодульная архитектура • Внутренние DI- и сетевые фреймворки • JUnit • Mockk • UI-тесты • Внутренние инструменты аналитики и конфигурации
+
+            **Ключевые достижения:**
+
+            *Лидерство и архитектурное влияние:*
+            - Выступала feature-owner крупного кросс-платформенного проекта (Android, iOS, Web) на протяжении более года: проводила ресерчи, формировала требования, координировала команды, защищала архитектурные решения
+            - Спроектировала и внедрила универсальный контракт для интеграции внешних сервисов в продукт, заложив основу для масштабируемых интеграций других бизнес-линий
+            - Полностью переработала навигацию сервиса для поддержки параллельных пользовательских флоу, разделила backstack и состояние, унифицировала поведение шторок
+            - Разработала RFC-подобную архитектурную спецификацию межплатформенного механизма конфигурации, согласованную с Web, iOS, бэкендом и дизайном
+
+            *Влияние на продукт (метрики A/B-тестов):*
+            - Запуск ключевой фичи: рост конверсии в целевое действие **+29%** (стат. значимо), uplift GMV **+39,8%**
+            - Запуск интеграции внешнего сервиса: рост CR в карточку товара **+14,35%**, uplift CR в заказ **+19,7%** — без негативного влияния на основные метрики сервиса
+            - Подтверждены ключевые продуктовые гипотезы, задавшие направление развития сервиса
+
+            *Инженерная культура и процессы:*
+            - Провела внедрение Jetpack Compose в проект: ресерч, базовые классы, инфраструктура UI-тестирования Compose, первый продуктовый экран, выступление на внутреннем демо
+            - Существенно увеличила покрытие Unit- и UI-тестами, доработала базовый интерсептор для стабильности тестов, добавила поддержку тестирования уведомлений и Compose-экранов
+            - Настроила инфраструктуру UI-тестов и ночной прогон для B2B-приложения, обеспечив раннее обнаружение регрессов
+            - Внедрила измерение и визуализацию TTI-метрик в Grafana, инициировала унификацию метрик с iOS для сравнимости результатов
+            - Переняла и формализовала проведение встреч по оценке и тех-долгу, составила календарь и регламент ответственных за релиз
+            - Завела документацию по передаче знаний, метрикам и архитектурным решениям
+
+            *Менторинг и комьюнити:*
+            - Менторила студентов в рамках вузовской практики — многие студенты успешно прошли отбор и приняты в штат
+            - Руководила мобильной практикой ИТИС, отвечала за: формирование требований, регламента, координация менторов, работа со студентами
+            - Менторила студента в рамках внутренней Академии и стажёра из смежной команды
+            - Представляла компанию на крупной внутренней конференции (700+ участников)
+
+            *Прочее:*
+            - Подтвердила грейд Senior в рамках внутренней аттестации
+            - Получала позитивный фидбэк от команды, руководителя, продакта, дизайна и смежных команд по итогам review<br><br>
 
       - layout: left
         title: Технократия
@@ -124,16 +160,16 @@ content:
             - Покрытие кода юнит тестами
 
             **Стек:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
-            
+
             **За время работы:**
             - Создала сервис логирования запросов и ошибок внутри приложения в json файлы
             - Поработала с датчиком NFC и внешней камерой
             - Создала общий механизм для обработки ошибок во всем приложении
             - Реализовала работу с табличными представлениями с закреплением заголовков и столбцов
             - На протяжении всей работы получала **позитивный фидбэк от команды и заказчика**<br><br>
-          
-          <mark>Аудит кода приложения для страховой компании</mark><br>
-           **За время работы:**
+
+           <mark>Аудит кода приложения для страховой компании</mark><br>
+            **За время работы:**
             - Продумала план аудита и создала шаблон отчета для мобильных разработчиков
             - Использовала MobSF, LeakCanary, Accessibility Scanner, SonarQube
             - Проводила анализ архитектуры проекта<br><br><br>
@@ -154,9 +190,9 @@ content:
             - Обширный рефакторинг кода с добавлением актуальных технологий
             - Принятие архитектурных решений
             - Code-review
-            
+
             **Стек:** Kotlin • XML • Coroutines • Flow • MVVM • Cicerone • Dagger2 • Retrofit • Shared Preferences • Moshi • AdapterDelegates • Slack EitherNet • Paging 3
-            
+
             **За время работы:**
             - Занималась созданием нагруженных экранов с сложным ui. Например, экраны лотерей с возможностью выбора неограниченного количества билетов по различным правилам лотерей, уведомлениями, покупкой и оплатой билетов и их наборов
             - Успешно погрузила трех разработчиков в проект и помогала им с проектированием нового функционала
@@ -171,11 +207,11 @@ content:
         sub_title: Летняя практика
         caption: Июль 2022
         description: | # this will include new lines to allow paragraphs
-            В ходе стажировки я участвовала в разработке внутреннего проекта компании **с полным погружением в процесс разработки**. Впервые поработала с **Compose и Jira**.<br>
-            *"Если коротко, ты молодец, мы твоей работой довольны. Хочется отметить твою мотивацию и вовлеченность, скорость погружения в новые технологии и выполнения задач, четкое разбиение кода по коммитам, хорошее оформление PRов, оперативное реагирование на замечания, наличие собственных идей и предложений. Кроме того отметили софт-скиллы, тот факт, что ты не стеснялась задавать вопросы не только менторам, но и дизайнерам, и аналитикам - это очень здорово."* - @Ментор
+          В ходе стажировки я участвовала в разработке внутреннего проекта компании **с полным погружением в процесс разработки**. Впервые поработала с **Compose и Jira**.<br>
+          _"Если коротко, ты молодец, мы твоей работой довольны. Хочется отметить твою мотивацию и вовлеченность, скорость погружения в новые технологии и выполнения задач, четкое разбиение кода по коммитам, хорошее оформление PRов, оперативное реагирование на замечания, наличие собственных идей и предложений. Кроме того отметили софт-скиллы, тот факт, что ты не стеснялась задавать вопросы не только менторам, но и дизайнерам, и аналитикам - это очень здорово."_ - @Ментор
 
   - title: Образование
-    layout: list 
+    layout: list
     content:
       - layout: left
         title: Казанский Федеральный (Поволжский) Университет
@@ -191,35 +227,34 @@ content:
         title: Skillbox
         caption: 2020-2022
         sub_title: Flutter-разработчик
-        description: | 
+        description: |
           Прошла следующие курсы: **Flutter, Android Basics, Figma, Mobile App Testing, Mobile App Design**.
 
       - layout: left
         title: Курсы в Казанском Федеральном Университете
         caption: 2022 - 2023
         sub_title: Системный анализ, UI/UX Дизайн
-        description: | 
+        description: |
           Успешно закончила курсы по **Системному анализу** от BARS Group и **UI/UX Дизайну** от Агоны.
 
   - title: Увлечения
-    layout: text 
+    layout: text
     content: |
-        - Стараюсь вести **активный образ жизни**, люблю **пробовать новое и участвовать в командных активностях**
-        - Люблю **читать и смотреть фильмы на английском**, особенно интересны сюжеты **антиутопии** и связанные с различными **мифами**
-        - Когда есть время, с головой погружаюсь в **Action/RPG игры с открытым миром**
-        - Одна из причин, по которой я люблю свою профессию это **возможность работать удаленно и путешествовать**
+      - Стараюсь вести **активный образ жизни**, люблю **пробовать новое и участвовать в командных активностях**
+      - Люблю **читать и смотреть фильмы на английском**, особенно интересны сюжеты **антиутопии** и связанные с различными **мифами**
+      - Когда есть время, с головой погружаюсь в **Action/RPG игры с открытым миром**
+      - Одна из причин, по которой я люблю свою профессию это **возможность работать удаленно и путешествовать**
 
 # Footer
 footer_show_references: true
-references_title: | 
+references_title: |
   Telegram: <a>https://t.me/ElizavG</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
