@@ -69,13 +69,12 @@ content:
       <center>
        <mark>Kotlin</mark>
        <mark>Compose</mark> <mark>XML</mark> <mark>MotionLayout</mark>
-       <mark>Coroutines</mark> <mark>Flow</mark> <mark>LiveData</mark> <mark>RxJava</mark><br><br>
+       <mark>Coroutines</mark> <mark>Flow</mark><br><br>
        <mark>Clean Architecture</mark> <mark>MVI</mark> <mark>MVVM</mark> <mark>MVP</mark> <mark>SOLID</mark><br><br>
        <mark>Многомодульная архитектура</mark> <mark>Gradle</mark> <mark>Feature Toggles</mark><br><br>
        <mark>Hilt</mark> <mark>Dagger2</mark> <mark>Navigation Component</mark> <mark>Cicerone</mark><br><br>
        <mark>Retrofit</mark> <mark>OkHttp</mark> <mark>Room</mark> <mark>DataStore</mark> <mark>SharedPreferences</mark> <mark>Firebase</mark><br><br>
        <mark>JUnit</mark> <mark>Mockk</mark> <mark>Mockito</mark> <mark>UI-тесты</mark> <mark>Charles</mark><br><br>
-       <mark>CameraX</mark> <mark>Camera2</mark> <mark>Paging3</mark> <mark>Lottie</mark> <mark>Moshi</mark> <mark>Kotlin Serialization</mark> <mark>AdapterDelegates</mark> <mark>Slack EitherNet</mark> <mark>Moxy</mark><br><br>
        <mark>System Design</mark> <mark>RFC/ADR</mark> <mark>Code Review</mark> <mark>Mentoring</mark> <mark>Feature Lead</mark><br><br>
        <mark>Grafana</mark> <mark>A/B-тесты</mark> <mark>Аналитика и метрики</mark> <mark>Scrum</mark> <mark>Kanban</mark><br><br>
        <mark>Flutter</mark> <mark>Machine Learning</mark> <mark>System Analysis</mark><br><br>
@@ -94,7 +93,7 @@ content:
         sub_title: Senior Android Разработчица
         caption: Июнь 2024 - ...
         description: |
-          <mark>Разработка крупного продуктового сервиса в составе одного из бизнес-стримов экосистемы банка. Работа в монорепозитории с мультимодульной архитектурой и интеграцией в мобильный банк.</mark><br>
+          <mark>Разработка крупного продуктового сервиса Топлива в Т-Банке. Работа в монорепозитории с мультимодульной архитектурой и интеграцией в мобильный банк.</mark><br>
 
             **Обязанности:**
             - Разработка и проектирование новых продуктовых фичей
@@ -106,10 +105,6 @@ content:
             - Проведение командных встреч (оценка, тех-долг, демо, ретро)
             - Покрытие функционала Unit- и UI-тестами, поддержка тестовой инфраструктуры
             - Работа с релизным циклом, фича-тогглами, конфигами и аналитикой
-
-            **Стек:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Многомодульная архитектура • Внутренние DI- и сетевые фреймворки • JUnit • Mockk • UI-тесты • Внутренние инструменты аналитики и конфигурации
-
-            **Ключевые достижения:**
 
             *Лидерство и архитектурное влияние:*
             - Выступала feature-owner крупного кросс-платформенного проекта (Android, iOS, Web) на протяжении более года: проводила ресерчи, формировала требования, координировала команды, защищала архитектурные решения
@@ -129,16 +124,16 @@ content:
             - Внедрила измерение и визуализацию TTI-метрик в Grafana, инициировала унификацию метрик с iOS для сравнимости результатов
             - Переняла и формализовала проведение встреч по оценке и тех-долгу, составила календарь и регламент ответственных за релиз
             - Завела документацию по передаче знаний, метрикам и архитектурным решениям
+            - Подтвердила грейд Senior в рамках внутренней аттестации
+            - Получала позитивный фидбэк от команды, руководителя, продакта, дизайна и смежных команд по итогам review
 
             *Менторинг и комьюнити:*
             - Менторила студентов в рамках вузовской практики — многие студенты успешно прошли отбор и приняты в штат
             - Руководила мобильной практикой ИТИС, отвечала за: формирование требований, регламента, координация менторов, работа со студентами
             - Менторила студента в рамках внутренней Академии и стажёра из смежной команды
             - Представляла компанию на крупной внутренней конференции (700+ участников)
-
-            *Прочее:*
-            - Подтвердила грейд Senior в рамках внутренней аттестации
-            - Получала позитивный фидбэк от команды, руководителя, продакта, дизайна и смежных команд по итогам review<br><br>
+          
+          **Стек:** Kotlin • Coroutines • Flow • Jetpack Compose • XML • MotionLayout • MVI • MVVM • Clean Architecture • Многомодульная архитектура • Внутренние DI- и сетевые фреймворки • JUnit • Mockk • UI-тесты • Внутренние инструменты аналитики и конфигурации<br><br>
 
       - layout: left
         title: Технократия
@@ -159,8 +154,6 @@ content:
             - Оптимизация производительности приложения
             - Покрытие кода юнит тестами
 
-            **Стек:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox
-
             **За время работы:**
             - Создала сервис логирования запросов и ошибок внутри приложения в json файлы
             - Поработала с датчиком NFC и внешней камерой
@@ -172,7 +165,10 @@ content:
             **За время работы:**
             - Продумала план аудита и создала шаблон отчета для мобильных разработчиков
             - Использовала MobSF, LeakCanary, Accessibility Scanner, SonarQube
-            - Проводила анализ архитектуры проекта<br><br><br>
+            - Проводила анализ архитектуры проекта<br>
+          
+          **Стек:** Kotlin • XML • Kotlin Coroutines • Flow • MVVM • Navigation Component • Dagger Hilt • Retrofit2 • Okhttp3 • Chucker • Encrypted Shared Preferences • MediaStore • Datastore •  KotlinX Serialization • Lottie • Camera 2 •  Facebook Shimmer • ViewPager2 • AndroidX Paging • Coil • AndroidX Swipe Refresh Layout • FlexBox<br><br>
+
 
       - layout: left
         title: Spider Group
