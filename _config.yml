@@ -240,11 +240,13 @@ content:
       - Люблю **читать и смотреть фильмы на английском**, особенно интересны сюжеты **антиутопии** и связанные с различными **мифами**
       - Когда есть время, с головой погружаюсь в **Action/RPG игры с открытым миром**
       - Одна из причин, по которой я люблю свою профессию это **возможность работать удаленно и путешествовать**
+      - Занимаюсь вокалом, рисую, играю в большой теннис и падел
+      
 
 # Footer
 footer_show_references: true
 references_title: |
-  Telegram: <a>https://t.me/ElizavG</a>
+  Telegram: <a href="https://t.me/ElizavG">https://t.me/ElizavG</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
